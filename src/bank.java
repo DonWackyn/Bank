@@ -1,6 +1,6 @@
 public class bank {
     public static void main(String args[]){
-        account usr = new account("Don Galimba","09262000");
+        account usr = new account("Bob Sanchez","12345678910");
         usr.menu();
     }
 }
